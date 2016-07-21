@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://zerowapo.github.io
+title: Android
+email: 
+author: zerowapo
+description: My awesome new site
+paginate: 5
+google_analytics: 
